@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color:white
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+  }
+#main{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 150px;
+    color: white;
+    font-family: "Libre Baskerville";
+    text-align: center;
+
+}
+.book{
+    border: 5px solid white;
+    width: 50%;
+}
